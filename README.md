@@ -18,8 +18,8 @@
 ║  ███████║╚██████╔╝██████╔╝██║ ╚═╝ ██║██║  ██║██║              ║
 ║  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝              ║
 ║                                                               ║
-║           Advanced Subdomain Discovery Tool v2.0             ║
-║              Fast • Comprehensive • Reliable                 ║
+║           Advanced Subdomain Discovery Tool v2.0              ║
+║              Fast • Comprehensive • Reliable                  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
