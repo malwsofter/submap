@@ -315,19 +315,8 @@ pip install -r requirements.txt
 
 ## 📧 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/submap/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/submap/discussions)
-- **Email**: your.email@domain.com
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to the Python asyncio community
-- Inspired by various subdomain enumeration tools
-- Built with love for the cybersecurity community
+- **Issues**: [GitHub Issues](https://github.com/malwsofter/submap/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/malwsofter/submap/discussions)
 
 ## ⭐ Star History
 
