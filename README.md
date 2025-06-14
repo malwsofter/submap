@@ -234,10 +234,6 @@ This will show:
 - **Security Monitoring**: Regular subdomain monitoring for new assets
 - **Reconnaissance**: Gather intelligence during OSINT activities
 
-## ⚠️ Legal Disclaimer
-
-SubMap is designed for authorized security testing and educational purposes only. Users are responsible for complying with applicable laws and regulations. Only test on domains you own or have explicit permission to test.
-
 ## 🔧 Requirements
 
 - Python 3.7+
