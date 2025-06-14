@@ -11,7 +11,9 @@ colorama>=0.4.4
 
 # Optional dependencies for improved performance
 uvloop>=0.17.0; sys_platform != "win32"
-cchardet>=2.1.7
+
+# Replaces cchardet (incompatible with Python >=3.12) with charset-normalizer
+charset-normalizer>=3.4
 
 # Development dependencies (optional)
 # Uncomment if you plan to contribute to development
